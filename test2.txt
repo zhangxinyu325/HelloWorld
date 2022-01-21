@@ -1,3 +1,4 @@
 hello
 the second changes
-the first changes
+the first change
+the feature
