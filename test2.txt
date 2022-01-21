@@ -1,4 +1,1 @@
-hello
-the second changes
-the first change
-the feature
+hello world
