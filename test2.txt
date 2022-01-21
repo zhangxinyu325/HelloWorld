@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello
 the second changes
+=======
+hello zxy
+the first changes
+>>>>>>> dev2
